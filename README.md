@@ -1,3 +1,6 @@
+![Banner](gitprofile.jpg)
+<img src="me.jpg" width="180" style="border-radius:50%;" />
+
 # Hi, I'm Reeya 👋  
 ### Data • AI • Analytics Engineering • Cloud
 
