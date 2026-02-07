@@ -1,4 +1,4 @@
-![Banner](gitprofile.jpg)
+
 <p align="center">
   <img src="gitprofile.jpg" width="100%" />
 </p>
