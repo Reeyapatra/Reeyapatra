@@ -1,5 +1,7 @@
 ![Banner](gitprofile.jpg)
-<img src="me.jpg" width="180" style="border-radius:50%;" />
+<p align="center">
+  <img src="gitprofile.jpg" width="100%" />
+</p>
 
 # Hi, I'm Reeya 👋  
 ### Data • AI • Analytics Engineering • Cloud
