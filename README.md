@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="gitprofile.jpg" width="100%" />
-</p>
+
 
 # Hi, I'm Reeya 👋  
 ### Data • AI • Analytics Engineering • Cloud
